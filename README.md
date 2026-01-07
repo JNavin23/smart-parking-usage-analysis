@@ -36,5 +36,5 @@ The goal is to simulate a real-world data analyst workflow from raw data to acti
 
 ## Author
 Navin
-Navin
-## Project Structure
+
+
